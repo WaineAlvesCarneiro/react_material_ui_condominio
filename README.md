@@ -25,7 +25,7 @@ JavaScript
 
 CSS
 
-Material Mui
+Material-ui
 
 Backend:
 
